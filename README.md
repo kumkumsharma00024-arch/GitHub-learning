@@ -1,2 +1,2 @@
 # GitHub-learning
-Learning Git and GitHub
+Learning Git and GitHub.
